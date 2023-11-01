@@ -58,6 +58,109 @@ npm install
 npm start
 ```
 
+
+<h2 align="center"> 🔰 Tap Here To Fork 🔰 
+</h2>
+   
+
+<h2 align="center">  <a href="https://mrjuice01/BayMax-MD/fork"><img src="https://img.shields.io/badge/FORK BayMax MD-h?color=white&style=for-the-badge&logo=stackshare" />
+</a>
+</h2>
+ 
+     
+<br>
+     <br>
+     
+
+     
+<h2 align="center"> 🍁  Run Repl for Multi Session QR  🍁
+</h2>
+<h2 align="center">  <a href="https://replit.com/@andyaibot/BayMax-Multi-Session"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+</a>
+</h2>
+
+## 
+- After you getting the `creds.json. ` then upload the `creds.json` in the `BAYMAX-SESSION` folder. then you can deploy on your favourite platform.
+
+
+
+
+</br></br>
+<h2 align="center"> ⚙️  Edit config file  ⚙️
+</h2>
+
+- Edit your config details in your own repo like -- [`config.js`](https://mrjuice01/BayMax-MD/blob/master/config.js)
+```js
+
+global.Owner = ["263780699988"];
+global.OwnerNumber = ["263780699988"];
+global.ownertag = ["263780699988"];
+global.OwnerName = "Mr Juice";
+global.BotName = "BayMax-MD";
+
+```
+     
+<br>
+</br>
+
+
+  <h2 align="center"> 🚩  Deploy On Codespace  🚩
+</h2>
+<h2 align="center">  <a href="https://github.com/codespaces/new"><img title="BayMax-MD on Gitub Codespace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" />
+</a>
+</h2>
+     
+   <br>
+  </br>
+
+
+  <h2 align="center"> ✨  Deploy On Mogenius  ✨
+</h2>
+<h2 align="center">  <a href="https://studio.mogenius.com/studio/cloud-space/cloud-space-overview"><img title="BayMax-MD on Mogenius" src="https://img.shields.io/badge/DEPLOY MOGENIUS-h?color=blue&style=for-the-badge&logo=genius"></a>
+</a>
+</h2>
+     
+    
+   <br>
+  </br>
+
+
+<h2 align="center"> 🍃  Deploy On Railway  🍃
+</h2>
+<h2 align="center">  <a href="https://railway.app/new"><img title="BayMax-MD on Railway"src="https://railway.app/button.svg" />
+</a>
+</h2>
+
+     
+
+   <br>
+   </br>
+
+
+<h2 align="center"> ❤  Deploy On Heroku  ❤
+</h2>
+
+<p align="center" >
+    <a href="https://heroku.com/deploy?template=https://mrjuice01/BayMax-MD">
+    <img title="BayMax-MD on Heroku" src="https://www.herokucdn.com/deploy/button.png" width="189px" alt="Deploy on Heroku" >
+    </a>
+</p>
+     
+
+```cmd
+> git clone https://mrjuice01/BayMax-MD.git
+```
+```
+> cd BayMax-MD
+```
+```
+> npm i
+```
+```
+> npm start
+```
+
+
 > ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 # INSTALL
